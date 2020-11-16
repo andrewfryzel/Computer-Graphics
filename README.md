@@ -1,5 +1,5 @@
 # Computer-Graphics
-## Projects implementing various computer graphics principles 
+## Projects implementing various Computer Graphics principles 
 
 ### Each folder, with the exception of "Procedurally Generated Terrain" contain the following files:
 
