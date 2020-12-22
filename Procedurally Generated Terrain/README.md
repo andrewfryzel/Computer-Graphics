@@ -24,7 +24,12 @@ https://www.khanacademy.org/computing/computer-programming/programming-natural-s
 # Octaves, Frequency, Lacunarity
 
 These three variables determine how the noise looks by changing different values of the noise. In a nutshell, octaves influence how many levels of detail the noise has; lacunarity determines the frequency of the octaves (the detail of each octave); persistence determines the amplitude, or the shape, of each octave; and the scale is the zoom in / zoom out factor of the Perlin noise. The octaves are combined together to form surfaces, or layers, of noise. It’s easy to conceptualize these octave layers by thinking of the octaves as the levels on a topographic map (at least that’s how I visualized it all).
+
+<img src="3.PNG" width="500px">  
+<img src="4.PNG" width="500px">  
 Image Source: https://i.pinimg.com/originals/56/4c/a7/564ca726d48c6b952f6141cf44f6f0a7.gif
+
+
 
 # Coloring
 
