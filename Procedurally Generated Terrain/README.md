@@ -28,8 +28,6 @@ Image Source: https://i.pinimg.com/originals/56/4c/a7/564ca726d48c6b952f6141cf44
 
 Coloring in Unity wasn’t particularly difficult. I simply took the height values and assigned a color to any values within a certain range. I could have fine tuned the numbers, and added more colors, for a more realistic and visually appealing product. I searched through the heights, and then updated the colors based on the height of the noise.
 
-# DrawColor Method
-
 # Mesh
 
 Thankfully, this wasn’t my first experience with meshing, and I understood the principles from previous projects and homework. The idea of meshing on this terrain map is somewhat complicated, but it involves calculating triangle vertices, performing vector calculations on those vertices and then normalizing the values. The hardest part of this section was determining how to connect it to Unity and map it work. I had to create several additional materials and scripts to get it to work, but in the end it did. Fundamentally, the triangles that are added to the mesh are at
