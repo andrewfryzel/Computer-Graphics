@@ -14,6 +14,8 @@ Procedurally Generated Terrain is a multi-step process and I had to learn each i
 Perlin noise is at the center of most procedurally generated terrain techniques, fire, water, and other procedural functions. Perlin noise is a type of coherent noise, meaning that it changes gradually, which is perfect for procedural generation because of its smooth curve. Perlin noise can be used on 2D and 3D applications. Generating random numbers could accomplish the same purpose as Perlin noise, however, using a random number generation isn’t as smooth or as clean as Perlin noise.
 Perlin Noise Random Numbers
 
+<img src="1.PNG" width="500px">  
+<img src="2.PNG" width="500px">  
 
 Source: https://cdn.kastatic.org/ka-perseus-images/0fd97fc7ab7ac5a7670935f1695d2a0c614e5252.png
 https://cdn.kastatic.org/ka-perseus-images/81e9d201147cd09f1b78f9541993d8460355eb3e.png
