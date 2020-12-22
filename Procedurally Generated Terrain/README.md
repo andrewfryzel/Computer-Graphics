@@ -7,7 +7,7 @@ Video Link: https://www.youtube.com/watch?v=LP7ggmH3EM8&feature=youtu.be
 
 
 
-# Procedurally Generated Terrain is a multi-step process and I had to learn each individual step. The steps involved include: Perlin Noise, Octaves, Frequency and Lacunarity, Meshing, and Character Movement (for the camera).
+Procedurally Generated Terrain is a multi-step process and I had to learn each individual step. The steps involved include: Perlin Noise, Octaves, Frequency and Lacunarity, Meshing, and Character Movement (for the camera).
 
 # Perlin Noise
 
